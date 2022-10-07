@@ -1,0 +1,21 @@
+C:\Users\HP\Desktop\final ödevi\final ödevi\bin\Debug\final ödevi.exe.config
+C:\Users\HP\Desktop\final ödevi\final ödevi\bin\Debug\final ödevi.exe
+C:\Users\HP\Desktop\final ödevi\final ödevi\bin\Debug\final ödevi.pdb
+C:\Users\HP\Desktop\final ödevi\final ödevi\obj\Debug\final ödevi.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\final ödevi\final ödevi\obj\Debug\final_ödevi.Form1.resources
+C:\Users\HP\Desktop\final ödevi\final ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+C:\Users\HP\Desktop\final ödevi\final ödevi\obj\Debug\final ödevi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\final ödevi\final ödevi\obj\Debug\final ödevi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\final ödevi\final ödevi\obj\Debug\final ödevi.exe
+C:\Users\HP\Desktop\final ödevi\final ödevi\obj\Debug\final ödevi.pdb
+C:\Users\Lenovo\Desktop\Okul projeleri\nesne tabanlı programlama\a-final ödevi\final ödevi\bin\Debug\final ödevi.exe.config
+C:\Users\Lenovo\Desktop\Okul projeleri\nesne tabanlı programlama\a-final ödevi\final ödevi\bin\Debug\final ödevi.exe
+C:\Users\Lenovo\Desktop\Okul projeleri\nesne tabanlı programlama\a-final ödevi\final ödevi\bin\Debug\final ödevi.pdb
+C:\Users\Lenovo\Desktop\Okul projeleri\nesne tabanlı programlama\a-final ödevi\final ödevi\obj\Debug\final ödevi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Okul projeleri\nesne tabanlı programlama\a-final ödevi\final ödevi\obj\Debug\final ödevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Okul projeleri\nesne tabanlı programlama\a-final ödevi\final ödevi\obj\Debug\final_ödevi.Form1.resources
+C:\Users\Lenovo\Desktop\Okul projeleri\nesne tabanlı programlama\a-final ödevi\final ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Okul projeleri\nesne tabanlı programlama\a-final ödevi\final ödevi\obj\Debug\final ödevi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Okul projeleri\nesne tabanlı programlama\a-final ödevi\final ödevi\obj\Debug\final ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Okul projeleri\nesne tabanlı programlama\a-final ödevi\final ödevi\obj\Debug\final ödevi.exe
+C:\Users\Lenovo\Desktop\Okul projeleri\nesne tabanlı programlama\a-final ödevi\final ödevi\obj\Debug\final ödevi.pdb
